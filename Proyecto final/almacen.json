@@ -1,0 +1,12 @@
+[
+    {
+        "tipo": "PLA",
+        "color": "Rojo",
+        "cantidad": 100
+    },
+    {
+        "tipo": "ABS",
+        "color": "Azul",
+        "cantidad": 50
+    }
+]
